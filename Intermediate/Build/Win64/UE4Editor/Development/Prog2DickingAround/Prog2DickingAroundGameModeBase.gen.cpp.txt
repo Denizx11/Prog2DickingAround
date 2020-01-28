@@ -1,0 +1,9 @@
+C:\Users\daniz\Documents\Unreal Projects\Prog2DickingAround\Intermediate\Build\Win64\UE4Editor\Development\Prog2DickingAround\Definitions.Prog2DickingAround.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\daniz\Documents\Unreal Projects\Prog2DickingAround\Source\Prog2DickingAround/Prog2DickingAroundGameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\daniz\Documents\Unreal Projects\Prog2DickingAround\Intermediate\Build\Win64\UE4Editor\Inc\Prog2DickingAround\Prog2DickingAroundGameModeBase.generated.h

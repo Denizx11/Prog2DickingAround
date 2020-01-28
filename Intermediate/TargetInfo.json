@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Prog2DickingAround",
+			"Path": "C:\\Users\\daniz\\Documents\\Unreal Projects\\Prog2DickingAround\\Source\\Prog2DickingAround.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Prog2DickingAroundEditor",
+			"Path": "C:\\Users\\daniz\\Documents\\Unreal Projects\\Prog2DickingAround\\Source\\Prog2DickingAroundEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Prog2DickingAround.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\daniz\Documents\Unreal Projects\Prog2DickingAround\Intermediate\Build\Win64\Prog2DickingAroundEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\daniz\Documents\Unreal Projects\Prog2DickingAround\Intermediate\Build\Win64\UE4Editor\Development\Prog2DickingAround\Prog2DickingAround.cpp.obj"
+"C:\Users\daniz\Documents\Unreal Projects\Prog2DickingAround\Intermediate\Build\Win64\UE4Editor\Development\Prog2DickingAround\Prog2DickingAroundGameModeBase.cpp.obj"
+"C:\Users\daniz\Documents\Unreal Projects\Prog2DickingAround\Intermediate\Build\Win64\UE4Editor\Development\Prog2DickingAround\Prog2DickingAround.init.gen.cpp.obj"
+"C:\Users\daniz\Documents\Unreal Projects\Prog2DickingAround\Intermediate\Build\Win64\UE4Editor\Development\Prog2DickingAround\Prog2DickingAroundGameModeBase.gen.cpp.obj"
+"C:\Users\daniz\Documents\Unreal Projects\Prog2DickingAround\Intermediate\Build\Win64\UE4Editor\Development\Prog2DickingAround\Default.rc2.res"
+/OUT:"C:\Users\daniz\Documents\Unreal Projects\Prog2DickingAround\Intermediate\Build\Win64\UE4Editor\Development\Prog2DickingAround\UE4Editor-Prog2DickingAround.lib"
+/INCLUDE:IMPLEMENT_MODULE_Prog2DickingAround
